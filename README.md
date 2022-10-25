@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtishamkhan" alt="ihtishamkhan" /></a> </p>
 
-- 🔭 I’m currently working with **Laravel**
+- 🔭 I’m currently working with **Javascript / Node JS**
 
-- 🌱 I’m currently learning **JavaScript from FreeCodeCamp. My next goal is to learn React.js**
+- 🌱 I’m currently learning **Nest JS from FreeCodeCamp. My next goal is to learn Next.js**
 
 - 👯 I’m looking to collaborate on **some JavaScript projects where I can improve my skills**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, Node JS**
 
 - 📫 How to reach me **ihtisham.se@gmail.com**
 
