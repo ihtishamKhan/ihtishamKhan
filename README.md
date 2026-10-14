@@ -1,101 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ihtisham Khan</h1>
-<h3 align="center">Full Stack Developer | Laravel • Node.js • React • SaaS Builder</h3>
+<div align="center">
 
-<p align="center">
-I build scalable web applications, SaaS platforms, and business-driven solutions for international clients.
-<br/>
-Strong focus on clean architecture, performance, and real-world problem solving.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ihtisham+Khan;Founder+%40+Orbik+Labs;Full-Stack+Engineer+%7C+AI+Automations;I+build+SaaS+that+businesses+actually+use" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihtishamkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ihtishamkhan" />
-</p>
+### Full-Stack Engineer · Founder of [Orbik Labs](https://orbiklabs.com) · SaaS & AI Automation Builder
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ihtishamkhan&theme=flat&margin-w=10" alt="ihtishamkhan" />
-  </a>
-</p>
+I design and ship custom web platforms, SaaS products, and AI-powered automations for clients across the globe, mainly in the **UK** and **USA**, from the first scoping call to production on AWS.
+
+<a href="https://orbiklabs.com"><img src="https://img.shields.io/badge/Orbik_Labs-orbiklabs.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:ihtisham.se@gmail.com"><img src="https://img.shields.io/badge/Email-ihtisham.se%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧭 What I'm Doing Now
 
-- 💼 Full Stack Developer working with **international clients**
-- 🧠 Strong experience in **Laravel, Node.js, React, REST APIs**
-- 🏗️ Built **SaaS platforms**, **restaurant systems**, **payment workflows**, and **admin dashboards**
-- 💳 Experienced with **Stripe payments**, subscriptions & billing logic
-- 🔐 Comfortable with **authentication, roles, permissions, and multi-tenant systems**
-- 🌱 Currently deepening backend architecture with **NestJS**
-- 📫 Reach me at **ihtisham.se@gmail.com**
+- 🏢 Running **[Orbik Labs](https://orbiklabs.com)**, an independent studio building custom web apps and AI automations
+- 📚 Building **Bookzee**, my own SaaS product
+- 🤖 Shipping **lead-response and outbound-calling automations** for service businesses and engineering SMEs
+- 🏗️ Scoping and delivering **ERP, procurement (RFQ), and project-management platforms** for multi-company clients
+- ☁️ Deploying everything on **AWS** with a focus on reliability and clean architecture
+
+## 👨‍💻 About Me
+
+- ⏳ **6+ years** building production web applications
+- 📈 Grew from **intern to CTO** at Uptech Sol (2020 to 2025), leading engineering and client delivery
+- 🎓 Taught full-stack web development through the **NAVTTC** government vocational program
+- 🔐 Comfortable with multi-tenancy, roles & permissions, billing, and complex business workflows
+- 🌍 Working remotely with clients worldwide
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Laravel (REST APIs, Cashier, multi-tenancy)
-- Node.js, Express, NestJS (in progress)
-- PHP, JavaScript, TypeScript
+<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,nodejs,ts,js,tailwind,mysql,postgres,supabase,aws,docker,linux,git,github&perline=8" />
 
-### Frontend
-- React.js
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-- JavaScript (ES6+)
-
-### Database & Tools
-- MySQL
-- Git & GitHub
-- Postman
-- Chart.js
-- Heroku
-
-### Payments & Integrations
-- Stripe (payments, subscriptions, webhooks)
-- Third-party APIs
+| Area | Tools |
+|---|---|
+| **Backend** | Laravel, PHP, Node.js, REST APIs, queues & webhooks |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Data** | MySQL, PostgreSQL, Supabase |
+| **Cloud** | AWS (EC2, RDS, S3) |
+| **Automation & AI** | LLM integrations, workflow automation, telephony (Telnyx), lead routing |
+| **Payments** | Stripe subscriptions, billing, and webhooks |
 
 ---
 
-## 📌 Notable Projects & Experience
+## 📌 Selected Work
 
-- 🍽️ **Restaurant SaaS Platform**  
-  Multi-tenant system with reservations, online ordering, Stripe payments, and admin dashboards.
-
-- 💳 **Subscription-Based Systems**  
-  Implemented Stripe billing, plan upgrades, customer management, and payment workflows.
-
-- 🧩 **Custom Business Applications**  
-  CRM modules, lead management, role-based access, and complex CRUD workflows.
-
-- 🌍 **Client Work (Freelance & Agency)**  
-  Delivered production-ready solutions for clients across different regions.
+| Project | What it does |
+|---|---|
+| 📚 **Bookzee** | My own SaaS product, currently in active development |
+| 📞 **Lead Response & Calling System** | Outbound calling, lead management, and instant automated follow-up for a service business |
+| 🧾 **RFQ / Procurement Platform** | Supplier quoting and procurement workflows, deployed on AWS |
+| 🗂️ **Engineering Project Management Platform** | Tasks, teams, file management, and a talent pool for a civil/structural consultancy |
+| 🏢 **Group ERP** | Multi-company ERP covering operations across a business group, including real estate |
+| 🍽️ **Restaurant SaaS** | Multi-tenant reservations, online ordering, Stripe payments, and admin dashboards |
 
 ---
 
-## 💬 Ask Me About
+## 💬 Talk to Me About
 
-- Laravel & backend architecture  
-- SaaS system design  
-- Stripe payments & subscriptions  
-- REST APIs & integrations  
-- React + Laravel workflows  
+`SaaS architecture` · `Laravel + Next.js` · `AI automations for SMEs` · `Multi-tenant systems` · `Stripe billing` · `AWS deployments`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihtishamkhan&show_icons=true&locale=en&layout=compact" alt="ihtishamkhan" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ihtishamkhan&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihtishamkhan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihtishamkhan&show_icons=true&locale=en" alt="ihtishamkhan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihtishamkhan" alt="ihtishamkhan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihtishamkhan&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-⚡ Fun fact: I enjoy building products that actually get used 🚀
+<div align="center">
+
+⚡ *I build products that actually get used.*
+
+**Need a custom platform or automation?** Visit [orbiklabs.com](https://orbiklabs.com)
+
+</div>
